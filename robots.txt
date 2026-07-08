@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /terms-of-service.html
+Disallow: /cookie-policy.html
+
+Sitemap: https://www.goujila.com.cn/sitemap.xml
